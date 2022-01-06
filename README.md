@@ -6,17 +6,17 @@ Greentrack's inspiration came from me seeing that many environmental organizatio
 ## What it does
 Greentrack is a web application with a few core features. First, there is the donation feature where individuals can find environmental causes to donate to and them effectively donate to that cause through a safe and secure payment portal. They can also fundraise for charities they own/created or charities they care about. Next is the volunteering platform. The volunteering platform also shows volunteering opportunities for environmental NGOs and a volunteer log which outlines a user's total hours. This is all put together by the centralized Dashboard which uses advanced data visualization techniques to show donation, fundraising, and volunteering amounts in an engaging and visually appealing way. There is also a level system in each of these categories, incentivizing users to give more to causes that need it.  
 
-## How we built it
+## How I built it
 Greentrack was built on HTML, Bootstrap, and CSS for the front end and Javascript for the backend. Firebase was used for authentication. 
 
-## Challenges we ran into
+## Challenges I ran into
 The learning curve associated with web programming was difficult and a lot of initial time was spent reading and debugging rather than coding. 
 
-## Accomplishments that we're proud of
+## Accomplishments that I'm proud of
 
 I am proud of the dashboard page due to its clean look and concise data visualization. 
 
-## What we learned
+## What I learned
 This was my first web application project so I learned a ton about web programming and web interfaces. 
 
 ## What's next for Greentrack
